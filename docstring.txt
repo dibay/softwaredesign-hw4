@@ -1,1 +1,2 @@
 docstrings
+simplify sub function
